@@ -11,4 +11,8 @@ This project demonstrates Java methods and JUnit testing for my CMSC 115 course 
 
 ## Testing
 The methods are tested using JUnit to verify their expected results.
-  
+## Lab Results
+All three Java methods passed the zyBooks JUnit tests.
+
+## Course
+CMSC 115 - Fundamentals of Programming and Software Development  
