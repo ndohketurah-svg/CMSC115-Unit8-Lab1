@@ -16,3 +16,8 @@ All three Java methods passed the zyBooks JUnit tests.
 
 ## Course
 CMSC 115 - Fundamentals of Programming and Software Development  
+## How to Run
+Open the Java project in IntelliJ IDEA and run the Main class.
+
+## Repository Purpose
+This repository documents my CMSC 115 Unit 8 Lab 1 assignment.
